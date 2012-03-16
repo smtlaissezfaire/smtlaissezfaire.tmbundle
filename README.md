@@ -1,3 +1,3 @@
 Personal bundle for textmate.
 
-Install into ~/Library/Application Support/TextMate/Bundles/smtlaissezfaire.tmbundle
+Run ./bin/install to Install into ~/Library/Application Support/TextMate/Bundles/smtlaissezfaire.tmbundle
