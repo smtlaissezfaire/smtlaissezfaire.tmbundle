@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>console.warn(require("util").inspect($1));$0</string>
+	<key>name</key>
+	<string>warn and inspect</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>wins</string>
+	<key>uuid</key>
+	<string>7BC0A705-AF6B-43C8-A778-9400AF3930DD</string>
+</dict>
+</plist>
