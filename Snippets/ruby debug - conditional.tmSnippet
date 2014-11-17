@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>require 'ruby-debug'; debugger;</string>
+	<string>require 'ruby-debug'; debugger if \$debug</string>
 	<key>name</key>
-	<string>ruby debug</string>
+	<string>ruby debug - conditional</string>
 	<key>scope</key>
 	<string>source.ruby</string>
 	<key>tabTrigger</key>
-	<string>bug</string>
+	<string>bugc</string>
 	<key>uuid</key>
-	<string>B7388D50-0EA5-4106-B148-B9889B26C190</string>
+	<string>1237FBF8-E71A-4F53-A0FA-6198AC954DAC</string>
 </dict>
 </plist>
